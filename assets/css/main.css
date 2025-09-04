@@ -48,101 +48,101 @@
   --tg-heading-line-height: 1.2;
   --tg-body-color: #3e4073;
   --tg-body-color-dark: #9ca3af;
-  --tg-heading-color: #14176c;
-  --tg-heading-color-dark: #f3f4f6;
-  --tg-theme-primary-50: #ecf6fa;
-  --tg-theme-primary-80: #cfdde2;
-  --tg-theme-primary-100: #b8b9da;
-  --tg-theme-primary-200: #9597c8;
-  --tg-theme-primary-300: #6568af;
-  --tg-theme-primary-400: #474aa0;
-  --tg-theme-primary-500: #191d88;
-  --tg-theme-primary-600: #171a7c;
-  --tg-theme-primary-700: #14176c;
-  --tg-theme-primary-800: #0e104b;
-  --tg-theme-primary-900: #0b0c39;
-  --tg-theme-secondary-50: #fef6e6;
-  --tg-theme-secondary-100: #fde3b0;
-  --tg-theme-secondary-200: #fbd58a;
-  --tg-theme-secondary-300: #fac254;
-  --tg-theme-secondary-400: #f9b633;
-  --tg-theme-secondary-500: #f7a400;
-  --tg-theme-secondary-600: #e19500;
-  --tg-theme-secondary-700: #af7400;
-  --tg-theme-secondary-800: #885a00;
-  --tg-theme-secondary-900: #684500;
-  --tg-theme-dark-primary-50: #0b0c39;
-  --tg-theme-dark-primary-80: #818298;
-  --tg-theme-dark-primary-100: #14176c;
-  --tg-theme-dark-primary-200: #171a7c;
-  --tg-theme-dark-primary-300: #191d88;
-  --tg-theme-dark-primary-400: #474aa0;
-  --tg-theme-dark-primary-500: #6568af;
-  --tg-theme-dark-primary-600: #0e104b;
-  --tg-theme-dark-primary-700: #b8b9da;
-  --tg-theme-dark-primary-800: #cfdde2;
-  --tg-theme-dark-primary-900: #ecf6fa;
-  --tg-theme-dark-secondary-50: #684500;
-  --tg-theme-dark-secondary-100: #885a00;
-  --tg-theme-dark-secondary-200: #af7400;
-  --tg-theme-dark-secondary-300: #e19500;
-  --tg-theme-dark-secondary-400: #f7a400;
-  --tg-theme-dark-secondary-500: #f9b633;
-  --tg-theme-dark-secondary-600: #fac254;
-  --tg-theme-dark-secondary-700: #fbd58a;
-  --tg-theme-dark-secondary-800: #fde3b0;
-  --tg-theme-dark-secondary-900: #fef6e6;
-  --tg-bg-dark-1: #0f172e;
-  --tg-bg-dark-2: #08173f;
-  --tg-color-dark-blue: #0e104b;
-  --tg-color-yellow-light: #fef6e6;
-  --tg-color-yellow-light-2: #fffbf3;
-  --tg-color-yellow-light-3: #f5eacd;
-  --tg-color-yellow-light-4: #fde3b0;
-  --tg-color-yellow-dark-4: #201e1b;
-  --tg-color-white-default: #ffffff;
-  --tg-color-gray-1: #e6eeff;
-  --tg-color-gray-2: #b8b9da;
-  --tg-color-gray-3: #ecf6fa;
-  --tg-color-gray-4: #818298;
-  --tg-color-gray-5: #e2e3f1;
-  --tg-color-gray-6: #f7f7f8;
-  --tg-color-dark: #1c1a4a;
-  --tg-color-black-1: #06042e;
-  --tg-color-black-2: #161439;
-  --tg-color-dark-dark-blue: #f3f4f6;
-  --tg-color-dark-yellow-light: #6d6a63;
-  --tg-color-dark-yellow-light-2: #322b1c;
-  --tg-color-dark-yellow-light-3: #f5eacd;
-  --tg-color-dark-yellow-light-4: #fde3b0;
-  --tg-color-dark-white-default: #0f172e;
-  --tg-color-dark-gray-1: #818298;
-  --tg-color-dark-gray-2: #b8b9da;
-  --tg-color-dark-gray-3: #363d40;
-  --tg-color-dark-gray-4: #818298;
-  --tg-color-dark-gray-5: #2d2e31;
-  --tg-color-dark-gray-6: #363d40;
-  --tg-color-dark-dark: #1c1a4a;
-  --tg-color-dark-black-1: #06042e;
-  --tg-color-dark-black-2: #161439;
-  --tg-border-1: #cfdde2;
-  --tg-border-2: #e6e7f3;
-  --tg-border-3: #c5c6e4;
-  --tg-border-4: #dbe3eb;
-  --tg-border-5: #9597c8;
-  --tg-border-6: #dadbec;
-  --tg-border-7: #e9e9f0;
-  --tg-border-8: #e08b00;
-  --tg-border-9: #d0d6e1;
-  --tg-border-dark-1-dark: #303133;
-  --tg-border-dark-2-dark: #222325;
-  --tg-border-dark-3-dark: #c5c6e4;
-  --tg-border-dark-4-dark: #777883;
-  --tg-border-dark-5-dark: #9597c8;
-  --tg-border-dark-6-dark: #777883;
-  --tg-border-dark-7-dark: #2d2d33;
-  --tg-border-dark-8-dark: #e08b00;
-  --tg-border-dark-9-dark: #d0d6e1;
+  --tg-heading-color: #102c57;
+  --tg-heading-color-dark: #fcfff7;
+  --tg-theme-primary-50: #e8f4fd;
+  --tg-theme-primary-80: #c4e4f8;
+  --tg-theme-primary-100: #9fd3f3;
+  --tg-theme-primary-200: #7bc2ee;
+  --tg-theme-primary-300: #56b1e9;
+  --tg-theme-primary-400: #31a0e4;
+  --tg-theme-primary-500: #1679ab;
+  --tg-theme-primary-600: #1369a0;
+  --tg-theme-primary-700: #105996;
+  --tg-theme-primary-800: #0d498b;
+  --tg-theme-primary-900: #0a3981;
+  --tg-theme-secondary-50: #e6f7f7;
+  --tg-theme-secondary-100: #b3e6e6;
+  --tg-theme-secondary-200: #80d4d4;
+  --tg-theme-secondary-300: #4dc3c3;
+  --tg-theme-secondary-400: #2eb5b5;
+  --tg-theme-secondary-500: #21a0a0;
+  --tg-theme-secondary-600: #1e9090;
+  --tg-theme-secondary-700: #1b8080;
+  --tg-theme-secondary-800: #187070;
+  --tg-theme-secondary-900: #046865;
+  --tg-theme-dark-primary-50: #102c57;
+  --tg-theme-dark-primary-80: #4a6b8a;
+  --tg-theme-dark-primary-100: #1679ab;
+  --tg-theme-dark-primary-200: #1369a0;
+  --tg-theme-dark-primary-300: #105996;
+  --tg-theme-dark-primary-400: #31a0e4;
+  --tg-theme-dark-primary-500: #56b1e9;
+  --tg-theme-dark-primary-600: #0d498b;
+  --tg-theme-dark-primary-700: #9fd3f3;
+  --tg-theme-dark-primary-800: #c4e4f8;
+  --tg-theme-dark-primary-900: #e8f4fd;
+  --tg-theme-dark-secondary-50: #046865;
+  --tg-theme-dark-secondary-100: #187070;
+  --tg-theme-dark-secondary-200: #1b8080;
+  --tg-theme-dark-secondary-300: #1e9090;
+  --tg-theme-dark-secondary-400: #21a0a0;
+  --tg-theme-dark-secondary-500: #2eb5b5;
+  --tg-theme-dark-secondary-600: #4dc3c3;
+  --tg-theme-dark-secondary-700: #80d4d4;
+  --tg-theme-dark-secondary-800: #b3e6e6;
+  --tg-theme-dark-secondary-900: #e6f7f7;
+  --tg-bg-dark-1: #102c57;
+  --tg-bg-dark-2: #0a1e3a;
+  --tg-color-dark-blue: #102c57;
+  --tg-color-yellow-light: #fcfff7;
+  --tg-color-yellow-light-2: #fcfff7;
+  --tg-color-yellow-light-3: #e6f7f7;
+  --tg-color-yellow-light-4: #b3e6e6;
+  --tg-color-yellow-dark-4: #102c57;
+  --tg-color-white-default: #fcfff7;
+  --tg-color-gray-1: #e8f4fd;
+  --tg-color-gray-2: #9fd3f3;
+  --tg-color-gray-3: #e8f4fd;
+  --tg-color-gray-4: #4a6b8a;
+  --tg-color-gray-5: #c4e4f8;
+  --tg-color-gray-6: #fcfff7;
+  --tg-color-dark: #102c57;
+  --tg-color-black-1: #0a1e3a;
+  --tg-color-black-2: #102c57;
+  --tg-color-dark-dark-blue: #fcfff7;
+  --tg-color-dark-yellow-light: #4a6b8a;
+  --tg-color-dark-yellow-light-2: #102c57;
+  --tg-color-dark-yellow-light-3: #e6f7f7;
+  --tg-color-dark-yellow-light-4: #b3e6e6;
+  --tg-color-dark-white-default: #102c57;
+  --tg-color-dark-gray-1: #4a6b8a;
+  --tg-color-dark-gray-2: #9fd3f3;
+  --tg-color-dark-gray-3: #1e3a4f;
+  --tg-color-dark-gray-4: #4a6b8a;
+  --tg-color-dark-gray-5: #1a2e47;
+  --tg-color-dark-gray-6: #1e3a4f;
+  --tg-color-dark-dark: #102c57;
+  --tg-color-dark-black-1: #0a1e3a;
+  --tg-color-dark-black-2: #102c57;
+  --tg-border-1: #c4e4f8;
+  --tg-border-2: #e6f1f8;
+  --tg-border-3: #7bc2ee;
+  --tg-border-4: #b3e6e6;
+  --tg-border-5: #56b1e9;
+  --tg-border-6: #9fd3f3;
+  --tg-border-7: #e8f4fd;
+  --tg-border-8: #21a0a0;
+  --tg-border-9: #c4e4f8;
+  --tg-border-dark-1-dark: #1e3a4f;
+  --tg-border-dark-2-dark: #142938;
+  --tg-border-dark-3-dark: #7bc2ee;
+  --tg-border-dark-4-dark: #4a6b8a;
+  --tg-border-dark-5-dark: #56b1e9;
+  --tg-border-dark-6-dark: #4a6b8a;
+  --tg-border-dark-7-dark: #1a2e47;
+  --tg-border-dark-8-dark: #21a0a0;
+  --tg-border-dark-9-dark: #c4e4f8;
   --tg-fw-extra-bold: 800;
   --tg-fw-bold: 700;
   --tg-fw-semi-bold: 600;
@@ -351,7 +351,7 @@ textarea {
 }
 
 .text-primary {
-  color: var(--tg-theme-primary-700) !important;
+  color: #102C57 !important;
 }
 
 /*=============================
@@ -1210,7 +1210,7 @@ textarea {
   font-size: 15px;
   font-weight: 600;
   line-height: normal;
-  color: var(--tg-theme-secondary-500);
+  color: #1679AB;
   margin-bottom: 12px;
 }
 .section-title .title {
@@ -2700,7 +2700,7 @@ textarea {
   letter-spacing: 0.75px;
   display: block;
   line-height: 1;
-  color: var(--tg-theme-secondary-500);
+  color: #1679AB;
   margin-bottom: 15px;
 }
 .banner-content .title {
@@ -2785,7 +2785,7 @@ textarea {
 }
 .banner__content-three .sub-title {
   font-size: 15px;
-  color: var(--tg-theme-secondary-500);
+  color: #1679AB;
   font-weight: 600;
   display: block;
   text-transform: uppercase;
@@ -10938,7 +10938,7 @@ textarea {
     18. Call-back
 ===============================*/
 .call-back-area {
-  background: #14176c;
+  background: #102C57;
   padding: 100px 0 85px;
   position: relative;
   z-index: 1;
@@ -15816,4 +15816,162 @@ blockquote p {
 }
 [data-bs-theme=dark] .sidebar__cat-list-two .list-wrap li a {
   border: 1px solid var(--tg-border-6);
-}/*# sourceMappingURL=main.css.map */
+}
+
+/* Acentra Brand Colors Custom Overrides */
+.tg-element-title, 
+.section-title .title, 
+h1.title, h2.title, h3.title, h4.title, h5.title, h6.title,
+.title.tg-element-title.text-primary,
+h2.title.tg-element-title.text-primary,
+.section-title h2.title.tg-element-title.text-primary,
+.section-title .title.tg-element-title.text-primary {
+  color: #102C57 !important;
+}
+
+.section-title .sub-title,
+.banner-content .sub-title,
+.banner__content-three .sub-title {
+  color: #1679AB !important;
+}
+
+/* Specific override for services section title */
+.services-area .section-title .title.tg-element-title.text-primary,
+.services-area h2.title.tg-element-title.text-primary,
+.services-area .section-title h2.title.tg-element-title.text-primary {
+  color: #102C57 !important;
+}
+
+/* Override any text-primary class specifically */
+.text-primary,
+h1.text-primary,
+h2.text-primary,
+h3.text-primary,
+h4.text-primary,
+h5.text-primary,
+h6.text-primary {
+  color: #102C57 !important;
+}
+
+/* Ensure proper contrast on dark backgrounds */
+.services-bg .section-title .title,
+.request-bg .title {
+  color: #fcfff7 !important;
+}
+
+.services-bg .section-title .sub-title {
+  color: #1679AB !important;
+}
+
+/* Experience Year Element Custom Colors */
+.experience-year {
+   background: #102C57 !important;
+}
+
+.experience-year .icon {
+  background: #1679AB !important;
+}
+
+.experience-year .content .circle {
+  color: #fcfff7 !important;
+}
+
+/* Button Styling with Brand Colors */
+.btn {
+  background: #1679AB !important;
+  color: #fcfff7 !important;
+}
+
+.btn::before {
+  background: #102C57 !important;
+}
+
+.btn:hover,
+.btn:focus-visible {
+  background: #1679AB !important;
+  color: #fcfff7 !important;
+}
+
+.btn-two {
+  background: #102C57 !important;
+}
+
+.btn-two:hover {
+  background: #102C57 !important;
+}
+
+.btn-two::before {
+  background: #1679AB !important;
+}
+
+/* Header button specific styling */
+.header-btn .btn {
+  background: #1679AB !important;
+  color: #fcfff7 !important;
+  border: 2px solid #1679AB !important;
+}
+
+.header-btn .btn:hover {
+  background: #102C57 !important;
+  color: #fcfff7 !important;
+  border-color: #102C57 !important;
+}
+
+/* Choose Area White Title Enhancement */
+.choose-area .section-title.white-title .title,
+.choose-area .section-title .title {
+  color: #fcfff7 !important;
+}
+
+.choose-area .section-title .sub-title {
+  color: #1679AB !important;
+}
+
+.choose-area {
+  background: #102C57 !important;
+}
+
+/* Services buttons */
+.services-item .btn {
+  background: #1679AB !important;
+  color: #fcfff7 !important;
+}
+
+.services-item .btn:hover {
+  background: #102C57 !important;
+  color: #fcfff7 !important;
+}
+
+/* Sticky Header Button Fix */
+.sticky-menu .tgmenu__action ul .header-btn a.btn,
+.sticky-menu .header-btn .btn,
+.sticky-menu .header-btn a.btn {
+  color: #fcfff7 !important;
+  background: #1679AB !important;
+  border-color: #1679AB !important;
+}
+
+.sticky-menu .tgmenu__action ul .header-btn a.btn:hover,
+.sticky-menu .header-btn .btn:hover,
+.sticky-menu .header-btn a.btn:hover {
+  color: #fcfff7 !important;
+  background: #102C57 !important;
+  border-color: #102C57 !important;
+}
+
+/* Call-back Area Title Contrast Fix */
+.call-back-area .section-title.white-title .title,
+.call-back-area .section-title .title.tg-element-title,
+.call-back-area h2.title.tg-element-title {
+  color: #21A0A0 !important;
+}
+
+.call-back-area .section-title .sub-title {
+  color: #1679AB !important;
+}
+
+.call-back-area p {
+  color: #fcfff7 !important;
+}
+
+/*# sourceMappingURL=main.css.map */
